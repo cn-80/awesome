@@ -50,7 +50,7 @@
 - [Related](#related)
 
 
-## Cryptocurrency and Blockchain
+## Cryptocurrency and Blockchains
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
 - [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
