@@ -54,6 +54,7 @@
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
 - [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
+- [Algorand](https://github.com/cn-80/awesome-algorand) - Algorand is a decentralized open source blockchain that uses Pure Proof of Stake.
 - [Solana](https://github.com/paul-schaaf/awesome-solana) - Open source high performance blockchain.
 - [Cosmos](https://github.com/cosmos/awesome) - A network of interconnected blockchains.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
