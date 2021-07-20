@@ -67,6 +67,7 @@
 
 - [Arweave](https://github.com/shenwilly/awesome-arweave) - Open source distributed, cryptographically verified permanent archive built on a cryptocurrency that aims to provide feasible data permanence.
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
+- [Serum](https://github.com/project-serum/awesome-serum) - Serum is an open source DEX (Decentralized EXchange) for the Solana blockchain.
 
 ## Platforms
 
